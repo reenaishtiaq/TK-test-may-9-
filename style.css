@@ -1,0 +1,28 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+
+img{
+    float: left;
+    border-right:4px solid rgb(218, 212, 212);
+    border-left:4px solid rgb(218, 212, 212);
+    margin-right: 25px;
+}
+#price{
+    color: red;
+}
+
+.star{
+    color: yellow;
+}
+button{
+    padding: 12px 40px;
+    color: white;
+    background-color: #ed4b74;
+    border: none;
+}
+
+#img-btm-p{
+    display: inline-block;
+}
+.fas-star{
+    color: yellow;
+}
